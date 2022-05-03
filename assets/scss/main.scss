@@ -1,0 +1,55 @@
+@import "_variables.scss";
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+
+    section i {
+        font-size: $fs;
+    }
+
+    .la-twitter {
+        color: $co-tw;
+    }
+
+    .la-behance {
+        color: $co-be;
+    }
+
+    .la-vimeo {
+        color: $co-vi;
+    }
+
+    .la-snapchat {
+        color: $co-sn;
+    }
+
+    .la-airbnb {
+        color: $co-ai;
+    }
+
+    .la-amazon {
+        color: $co-am;
+    }
+
+    .la-android {
+        color: $co-an;
+    }
+
+    .la-stack-overflow {
+        color: $co-st;
+    }
+
+    .la-ubuntu {
+        color: $co-ub;
+    }
+
+    .la-github {
+        color: $co-gi;
+    }
+
+    .la-js-square {
+        color: $co-js;
+    }
+}

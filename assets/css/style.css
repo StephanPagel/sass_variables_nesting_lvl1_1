@@ -1,0 +1,43 @@
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+body section i {
+  font-size: 7rem;
+}
+body .la-twitter {
+  color: #1da1f2;
+}
+body .la-behance {
+  color: #1769ff;
+}
+body .la-vimeo {
+  color: #1ab7ea;
+}
+body .la-snapchat {
+  color: #fffc00;
+}
+body .la-airbnb {
+  color: #fd5c63;
+}
+body .la-amazon {
+  color: #ff9900;
+}
+body .la-android {
+  color: #a4c639;
+}
+body .la-stack-overflow {
+  color: #f48024;
+}
+body .la-ubuntu {
+  color: #77216f;
+}
+body .la-github {
+  color: #4078c0;
+}
+body .la-js-square {
+  color: #f7df1e;
+}
+
+/*# sourceMappingURL=style.css.map */
